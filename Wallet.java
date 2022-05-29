@@ -6,12 +6,12 @@ import java.util.*;
 
 /**
  *
- * @author Nintendo
+ * @author Roner
  */
 public class Wallet extends Player {
 
     private Scanner scanWallet;
-    private final String pathToWallet = "C:\\Users\\Nintendo\\Documents\\NetBeansProjects\\BlackJack\\src\\main\\java\\blackjack\\Wallet.txt";
+    private final String pathToWallet = "C:\\Users\\Documents\\NetBeansProjects\\BlackJack\\src\\main\\java\\blackjack\\Wallet.txt";
 
     public void writeMoneyToFile() {
         try (Formatter file = new Formatter(pathToWallet)) {
