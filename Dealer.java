@@ -4,7 +4,7 @@ import static java.lang.System.out;
 
 /**
  *
- * @author Nintendo
+ * @author Roner
  */
 public class Dealer extends GameEngine implements PlayerAndDealer {
 

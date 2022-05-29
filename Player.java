@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nintendo
+ * @author Roner
  */
 public class Player extends GameEngine implements PlayerAndDealer {
         

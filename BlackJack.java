@@ -2,7 +2,7 @@ package blackjack;
 
 /**
  *
- * @author Nintendo
+ * @author Roner
  */
 public class BlackJack {
 
